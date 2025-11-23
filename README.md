@@ -4,6 +4,6 @@ Hi, I'm SAYANTH SANTHOSH
 
 Skills & Technologies
 
-Languages: Java,Advanced Java,JDBC,Servlet,Python, JavaScript, PHP, Java, SQL, C, HTML5, CSS
+Languages: Java,Advanced Java,JDBC,Servlet,Python, JavaScript, PHP, Java, SQL, C, HTML5, CSS\
 Frameworks & Libraries: Flutter, NumPy, Pandas, DSA, Machine Learning (ML), LangChain, Streamlit
 
